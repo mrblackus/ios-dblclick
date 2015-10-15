@@ -29,3 +29,7 @@ Feel free to open issue or submit pull request to improve this directive !
 
 ## License
 This directive is published under MIT license, see LICENSE file.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mrblackus/ios-dblclick/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
