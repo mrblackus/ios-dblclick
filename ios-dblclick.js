@@ -8,7 +8,7 @@
         .directive('iosDblclick',
         function () {
 
-            const DblClickInterval = 300; //milliseconds
+            var DblClickInterval = 300; //milliseconds
 
             var firstClickTime;
             var waitingSecondClick = false;
