@@ -16,7 +16,7 @@
             return {
                 restrict: 'A',
                 link: function (scope, element, attrs) {
-                    element.bind('click', function (e) {
+                    element.bind('click pointerdown', function (e) {
 
                         if (!waitingSecondClick) {
                             firstClickTime = (new Date()).getTime();
